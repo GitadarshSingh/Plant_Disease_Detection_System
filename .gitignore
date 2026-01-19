@@ -1,0 +1,15 @@
+# datasets
+train/
+test/
+valid/
+
+# models
+*.keras
+*.h5
+
+# notebooks output
+.ipynb_checkpoints/
+
+# system
+__pycache__/
+.env
