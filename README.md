@@ -6,16 +6,8 @@ A deep learning–powered **Plant Disease Detection System** built using **Tenso
 
 ## 🚀 Live Application (Localhost)
 
-Run the project locally using Streamlit:
 
-```bash
-streamlit run main.py
-```
-
-After running the command, open your browser and visit:
-
-```
-http://localhost:8501
+🔗 https://plant-disease-detection-ml-app.streamlit.app
 ```
 
 ---
@@ -119,14 +111,9 @@ Dataset contains images of:
 
 ---
 
-## 👨‍💻 Author
 
-**Adarsh Singh**
-Computer Science Student
 
-🔗 GitHub: [https://github.com/GitadarshSingh](https://github.com/GitadarshSingh)
 
----
 
 ## ⭐ Support
 
